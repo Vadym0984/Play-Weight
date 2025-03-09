@@ -1,1 +1,1 @@
-Fix typo in the user registration form
+Generate localhost keys for tests on the fly
