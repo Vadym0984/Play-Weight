@@ -1,1 +1,1 @@
-Generate localhost keys for tests on the fly
+Add unit tests for the new user profile feature
