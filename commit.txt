@@ -1,1 +1,1 @@
-Fix bug with image upload validation
+Generate localhost keys for tests on the fly
