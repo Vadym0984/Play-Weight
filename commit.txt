@@ -1,1 +1,1 @@
-Generate localhost keys for tests on the fly
+Fix typo in the user registration form
